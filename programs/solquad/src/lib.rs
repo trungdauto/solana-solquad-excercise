@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("5sFUqUTjAMJARrEafMX8f4J1LagdUQ9Y8TR8HwGNHkU8");
+declare_id!("4cA4TVJ6np5aZTjEakKyJAdnet7rm3BoC2oe5sdzrh1M");
 
 #[program]
 pub mod solquad {
